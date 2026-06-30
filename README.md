@@ -107,7 +107,7 @@ The trained model was serialized using **Joblib** and saved as:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/krrish-anand/Auto_Fraud_Detection.git
+   git clone https://github.com/Sanjana1814/Auto-Insurance-Fraud-Detection.git
    cd Auto_Fraud_Detection
    ```
 
