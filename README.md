@@ -289,11 +289,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Krrish Anand** - krrishanand3832@gmail.com - [@krrish-anand](https://github.com/krrish-anand)
-
 **Live Application**: [https://auto-fraud-detection.streamlit.app/](https://auto-fraud-detection.streamlit.app/)
 
-Project Link: [https://github.com/krrish-anand/Auto_Fraud_Detection](https://github.com/krrish-anand/Auto_Fraud_Detection)
+Project Link: [https://github.com/Sanjana1814/Auto-Insurance-Fraud-Detection](https://github.com/Sanjana1814/Auto-Insurance-Fraud-Detection)
 
 ## 📄 License
 
